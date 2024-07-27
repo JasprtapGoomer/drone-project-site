@@ -17,9 +17,11 @@ body {
     background-color: white;
     color: black;
     padding: 10px 20px;
-    margin: 5px;
+    margin: 10px 0; /* Adds space between buttons */
     border: none;
     cursor: pointer;
+    border-radius: 15px; /* Makes buttons have rounded corners */
+    width: 200px; /* Sets a fixed width for buttons */
   }
   
   button:hover {
