@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const typingText = "Welcome to the Drone Project";
+    const typingText = "Welcome to Drone Studio";
     let index = 0;
     const typingSpeed = 100;
   
